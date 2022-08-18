@@ -1,5 +1,7 @@
-# Frederic ZINGG profile's page
+# Nice to see you
 
+Welcome to my page.
+I am Frédéric ZINGG, Fullstack and Smart-contracts developer from France <img src="https://camo.githubusercontent.com/810c0059ec880d3bf22c12f8ecd24d39ae1c9ee5d294cd397e6f414738d9cdd8/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67" width="13" data-canonical-src="https://cdn-icons-png.flaticon.com/512/197/197560.png" style="max-width: 100%;"> and Switzerland. Currently living in Algarve, Portugal
 
 ![](https://komarev.com/ghpvc/?username=fzingg&color=green)
 
