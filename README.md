@@ -4,6 +4,9 @@ Welcome to my page.
 I am Frédéric ZINGG, software engineer from France and Switzerland.
 
 After more than 20 years of building client/server solutions mainly with RUBY / RubyonRails / Javascript and React / Websocket / Redis, I am now really crazy about coding in RUST + Multi-threading + Asynchrounous and P2P architectures and protocols including blockchains solutions and smart-contracts coding (Elrond / Starknet / Ethereum / The internet computer). 
+I have also experience in Data engineering.
+
+Currently working at [Mindset.ai](https://mindset.ai)
 
 
 ![](https://komarev.com/ghpvc/?username=fzingg&color=green)
