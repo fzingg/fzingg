@@ -9,18 +9,13 @@ Since 6 years I'm more involved in blockchain technologies work with RUST / CAIR
 
 Also involved in AI and Data engineering in the 2 last years at Mindset.ai where I mainly build Data flow with GCP and Thoughstpot, work on Javascript and Python Ai agents API and build various integrations process with tools like Cyclr or Zappier. 
 
-Currently working at [Mindset.ai](https://mindset.ai)
+I'm currently passioned by learning PyTorch, playing with RUST and GO, and experimenting FHE in ML or blockchains environment.
+
+Working at [Mindset.ai](https://mindset.ai)
 
 
 ![](https://komarev.com/ghpvc/?username=fzingg&color=green)
 
-##### Ruby, Rust, Python, Solidity, Javascript, Typescript, PERL, PHP Webassembly, C++, Java, Cairo
-##### RubyOnRails, Node.js, Deno.js
-##### React, Graphql
-##### Webpack, Yarn, Npm
-##### MySql, PostgresSql, Neo4j, Redis
-##### Google Cloud Platform, Firebase, BigQuery, Dundas, Thoughtspot, Segment, Rudderstack
-##### Ethereum and Starknet VM
 
 
 <!--
