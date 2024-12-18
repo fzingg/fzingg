@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Frédéric ZINGG</h1>
-<h3 align="center">Full Stack Web and Blockchain Developer </h3>
+<h3 align="center">Full Stack Web, Blockchain Dev and AI agents API dev</h3>
 
+![](https://komarev.com/ghpvc/?username=fzingg&color=green)
 
-I am Frédéric ZINGG, software engineer from France and Switzerland, living in Portugal.
+Software engineer from France and Switzerland, living in Portugal.
 
 More than 20 years of building client/server solutions and API mainly with RUBY / RubyonRails / Javascript / Python and React / Websocket / Redis and various Database like Relational DB or Graph DB.
 
@@ -15,8 +16,16 @@ I'm currently passioned by learning PyTorch, playing with RUST and GO, experimen
 Working at [Mindset.ai](https://mindset.ai)
 
 
-![](https://komarev.com/ghpvc/?username=fzingg&color=green)
+<h3>🌟 Notable contributions, certifications and personal projects</h3>
 
+----
+
+- Contributed to **Hyperstack**, Ruby-based DSL and modern web toolkit for building spectacular, interactive web applications fast!
+- Contributed to [Intekt / IEML](https://intlekt.io/), a language for metadata designed to structure and categorize information on the Internet.
+- Founder of [blockchain-resources](blockchain-resources.com), personal blog about blockchain technologies
+- Founder of [rust-journey](rust-journey.com), a personal blog about the RUST language
+- Interchain Developer Academy [certification](https://badgr.com/public/assertions/Q8SZJtvzShSAF58Vsvsoyw?identity__email=fredzingg@gmail.com), the blockchain Cosmos hub certificate.
+- Ranked #34 on the [Node guardians](https://nodeguardians.io/) WEB3 training web site
 
 
 <!--
