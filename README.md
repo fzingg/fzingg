@@ -11,7 +11,7 @@ Since 6 years I'm more involved in blockchain technologies work with RUST / CAIR
 
 Also involved in AI and Data engineering in the 2 last years at Mindset.ai where I mainly build Data flow with GCP and Thoughstpot, work on Javascript and Python Ai agents API and build various integrations process with tools like Cyclr or Zappier. 
 
-I'm currently passioned by learning PyTorch, playing with RUST and GO, experimenting FHE in ML or blockchains environment and building apps using BrianAI (https://www.brianknows.org/) and Starknet.
+I'm currently passioned by learning PyTorch, playing with RUST and GO, experimenting FHE in ML or blockchains environment and building apps using [BrianAI](https://www.brianknows.org) and Starknet.
 
 Working at [Mindset.ai](https://mindset.ai)
 
