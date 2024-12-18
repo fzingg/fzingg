@@ -1,4 +1,4 @@
-# Nice to see you
+<center># Hello</center>
 
 Welcome to my page.
 I am Frédéric ZINGG, software engineer from France and Switzerland, living in Portugal.
