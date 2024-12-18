@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">Hey, I'm Frédéric ZINGG</h1>
-<h3 style="text-align: center;">Full Stack Web and Blockchain Developer </h3>
+<h1 align="center">Hey, I'm Frédéric ZINGG</h1>
+<h3 align="center">Full Stack Web and Blockchain Developer </h3>
 
 
 I am Frédéric ZINGG, software engineer from France and Switzerland, living in Portugal.
