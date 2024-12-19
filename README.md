@@ -22,10 +22,10 @@ Working at [Mindset.ai](https://mindset.ai)
 
 - Contributed to **Hyperstack**, Ruby-based DSL and modern web toolkit for building spectacular, interactive web applications fast!
 - Contributed to [Intekt / IEML](https://intlekt.io/), a language for metadata designed to structure and categorize information on the Internet.
-- Founder of [blockchain-resources](blockchain-resources.com), personal blog about blockchain technologies
-- Founder of [rust-journey](rust-journey.com), a personal blog about the RUST language
+- Founder of [blockchain-resources](https://blockchain-resources.com), personal blog about blockchain technologies
+- Founder of [rust-journey](https://rust-journey.com), a personal blog about the RUST language
 - Interchain Developer Academy [certification](https://badgr.com/public/assertions/Q8SZJtvzShSAF58Vsvsoyw?identity__email=fredzingg@gmail.com), the blockchain Cosmos hub certificate.
-- Ranked #34 on the [Node guardians](https://nodeguardians.io/) WEB3 training web site
+- Ranked #34 on the [Node guardians](https://nodeguardians.io/hall-of-fame) WEB3 (Solidity, Cairo, Huff, Noir) training web site
 
 
 <!--
