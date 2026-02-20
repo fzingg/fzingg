@@ -1,17 +1,20 @@
 <h1 align="center">Hey, I'm Frédéric ZINGG</h1>
-<h3 align="center">Full Stack Web, Blockchain Dev and AI agents API dev</h3>
+<h3 align="center">Software Engineer & Technical Lead — AI, Cloud & Data Platforms</h3>
 
 ![](https://komarev.com/ghpvc/?username=fzingg&color=green)
 
-Software engineer from France and Switzerland, living in Portugal.
+**Frederic ZINGG — French/Swiss**
+**Master's in Mathematics & Computer Science**
 
-More than 20 years of building client/server solutions and API mainly with RUBY / RubyonRails / Javascript / Python and React / Websocket / Redis and various Database like Relational DB or Graph DB.
+Software Engineer and Technical Lead with 20+ years of experience designing, building, and delivering software products — from full-stack web applications to cloud-native data platforms and AI-powered systems.
 
-Since 6 years I'm more involved in blockchain technologies work with RUST / CAIRO / NOIR / Solidity mainly in Ethereum and Starknet ecosystems.
+Currently focused on AI agent integration, workflow automation, and cloud platform architecture. My daily work involves architecting multi-tenant automation platforms, building and orchestrating complex workflows (N8N, Cloud Functions), developing Python and JavaScript services that interface with LLM agents via gRPC, and leveraging AI-assisted development tools like Claude Code to accelerate delivery. I design end-to-end solutions that connect MCP servers, AI agents, and third-party systems into cohesive, production-ready infrastructure on Google Cloud. This includes building MCP server tooling and supporting API services from customer requirements through to production — with agent behaviour testing and integration across diverse data platforms (Snowflake, BigQuery, Cloud SQL).
 
-Also involved in AI and Data engineering in the 2 last years at Mindset.ai where I mainly build Data flow with GCP and Thoughstpot, work on Javascript and Python Ai agents API and build various integrations process with tools like Cyclr or Zappier. 
+Grounded in strong computer science and software engineering fundamentals, I have deep experience with systems-level and application-level languages — C++, Rust, Ruby, TypeScript, Python, Java, Go — giving me the ability to reason about performance, memory, and architecture at every layer of the stack. I have designed and built dozens of RESTful APIs across these languages, and integrated them into automated workflows using platforms such as N8N, Cyclr, Zapier, and Make.
 
-I'm currently passioned by learning PyTorch, playing with RUST and GO, experimenting FHE in ML or blockchains environment and building apps using [BrianAI](https://www.brianknows.org) and Starknet.
+Data engineering is a core part of my skill set. I design and operate data pipelines on Google Cloud Platform — Cloud Functions, Cloud Run, BigQuery, Cloud SQL — and have hands-on experience with BI migration (Dundas BI → ThoughtSpot), ETL orchestration, data modelling, and CDP evaluation (RudderStack, Segment). I have also planned and implemented a GenAI-ready data stack — including dbt for transformation, semantic layer modelling, and integration with LLM agents for natural-language data querying. I approach data infrastructure with the same rigour I bring to application code: tested, documented, and built for scale.
+
+I thrive in remote, cross-functional teams and care deeply about clear communication, collaboration, and supporting colleagues on customer-facing teams. I lead by staying close to the product — from initial conversation through to production readiness, including performance, security, and high-load preparation.
 
 Working at [Mindset.ai](https://mindset.ai)
 
@@ -22,10 +25,7 @@ Working at [Mindset.ai](https://mindset.ai)
 
 - Contributed to **Hyperstack**, Ruby-based DSL and modern web toolkit for building spectacular, interactive web applications fast!
 - Contributed to [Intekt / IEML](https://intlekt.io/), a language for metadata designed to structure and categorize information on the Internet.
-- Founder of [blockchain-resources](https://blockchain-resources.com), personal blog about blockchain technologies
-- Founder of [rust-journey](https://rust-journey.com), a personal blog about the RUST language
-- Interchain Developer Academy [certification](https://badgr.com/public/assertions/Q8SZJtvzShSAF58Vsvsoyw?identity__email=fredzingg@gmail.com), the blockchain Cosmos hub certificate.
-- Ranked #34 on the [Node guardians](https://nodeguardians.io/hall-of-fame) WEB3 (Solidity, Cairo, Huff, Noir) training web site
+
 
 
 <!--
